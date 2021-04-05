@@ -56,6 +56,7 @@ echo $variable
 echo $PATH
 echo ${PATH}   # 作者推荐的格式
 
+A
 ```
 
 
@@ -87,4 +88,5 @@ echo ${PATH}   # 作者推荐的格式
 
 
 
-
+## 3.4 set
+查看所有的变量(包含系统变量和自定义变量)
